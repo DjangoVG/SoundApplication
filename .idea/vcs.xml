@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SynologyDrive/1. Info. de Gestion/1ère Année/Logique et langage de programmation 2/2eme essai/InpresPlay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SynologyDrive/1. Info. de Gestion/1ère Année/Logique et langage de programmation 2/2eme essai/InpresPuissance4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SynologyDrive/1. Info. de Gestion/2ème Année/C#/Laboratoire/labo-phase-1-et-2-DjangoVG" vcs="Git" />
